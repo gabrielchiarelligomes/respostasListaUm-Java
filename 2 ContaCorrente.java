@@ -1,4 +1,4 @@
-package teste;
+
 public class ContaCorrente {
 	private int numeroDaConta;
 	private double saldo;
