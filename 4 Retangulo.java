@@ -1,4 +1,3 @@
-package teste;
 public class Retangulo {
 	private double base;
 	private double altura;
