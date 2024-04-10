@@ -1,4 +1,3 @@
-package teste;
 public class Circulo {
 	private double raio;
 	
